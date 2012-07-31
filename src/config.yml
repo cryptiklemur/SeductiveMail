@@ -1,0 +1,12 @@
+enabled:
+    mail: true
+
+# Database Settings - Required
+# Must Use mysql
+db:
+    hostname = 'localhost'
+    portnumb = 3306
+    username = 'scmailUser'
+    password = 'changeme'
+    database = 'seductiveCraft'
+    prefix = 'mail'

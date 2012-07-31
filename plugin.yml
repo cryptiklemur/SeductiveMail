@@ -1,0 +1,9 @@
+name: com.seductivecraft.SeductiveMail
+main: com.seductivecraft.com.seductivecraft.SeductiveMail
+version: 0.1.0
+commands:
+    scmail:
+        description: Basic mail info
+        usage: /scmail
+        permission: scmail.info
+        permission-message: You can't use Mail
